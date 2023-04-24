@@ -81,13 +81,8 @@
             </div>
             <div class="row">
                 <p><?= element43 ?></p>
-                <a href="mailto:alexis.fredriksen@semper-connect.fr">alexis.fredriksen@semper-connect.fr</a>
+                <a href="mailto:developpeuralexispro@gmail.com">developpeuralexispro@gmail.com</a>
                 <h6>Location: France, Melun</h6>
-            </div>
-            <div class="row">
-                <p>Curriculum Vitae</p>
-                <a href="assets/PDF/(FR)CV-AlexisFREDRIKSEN.pdf">En Français</a>
-                <a href="assets/PDF/(EN)CV-AlexisFREDRIKSEN.pdf">In English</a>
             </div>
         </div>
         <div class="col-md-1"></div>
@@ -100,13 +95,8 @@
         </div>
         <div class="row">
             <p><?= element43 ?></p>
-            <a href="mailto:alexis.fredriksen@semper-connect.fr">alexis.fredriksen@semper-connect.fr</a>
+            <a href="mailto:developpeuralexispro@gmail.com">developpeuralexispro@gmail.com</a>
             <h6>Location: France, Melun</h6>
-        </div>
-        <div class="row">
-            <p>Curriculum Vitae</p>
-            <a href="../assets/PDF/(FR)CV-AlexisFREDRIKSEN.pdf">En Français</a>
-            <a href="../assets/PDF/(EN)CV-AlexisFREDRIKSEN.pdf">In English</a>
         </div>
     </div>
     <div class="container-fluid Next">
@@ -125,7 +115,7 @@ require_once __DIR__.'../../mail/config.php';
 $mail = new PHPMailer\PHPMailer\PHPMailer(true);
 
 //check query is execute successfully or not
-$email = 'alexisfredriksen5@gmail.com';
+$email = 'alexis.fredriksen5@gmail.com';
 //Server settings
 $mail->SMTPDebug = CONTACTFORM_PHPMAILER_DEBUG_LEVEL;
 $mail->isSMTP();
@@ -137,7 +127,7 @@ $mail->SMTPSecure = CONTACTFORM_SMTP_ENCRYPTION;
 $mail->Port = CONTACTFORM_SMTP_PORT;
 
 // Recipients
-$mail->setFrom('alexisfredriksen5@gmail.com', 'Contact Portfolio');
+$mail->setFrom('alexis.fredriksen5@gmail.com', 'Contact Portfolio');
 $mail->addAddress($email);
 $mail->addReplyTo('yourmail@gmail.com');
 
@@ -197,8 +187,8 @@ if(isset($_POST['submit'])){
 
 <script>
     setTimeout(function() {
-  document.getElementById("message").style.display = 'none';
-}, 5000);
+  document.getElementById("message").style.display = 'block';
+}, 2000);
 </script>
 
 <div id="titrePrincipal" style="display: none;"></div>

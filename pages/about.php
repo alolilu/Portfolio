@@ -70,6 +70,16 @@
     <div class="container-xxl workexp">
         <div class="row">
             <div class="col-md-4">
+                <h6>MyDigitalSchool - Melun</h6>
+                <p><?= element105 ?></p>
+            </div>
+            <div class="col-md-8">
+                <h3><?= element106 ?></h3>
+                <a href="https://www.mydigitalschool.com/ecole-multimedia-melun">https://www.mydigitalschool.com/ecole-multimedia-melun</a>
+            </div>
+        </div>
+        <div class="row" style="margin-top: 50px;">
+            <div class="col-md-4">
                 <h6>Efrei - Ville Juif</h6>
                 <p><?= element29 ?></p>
             </div>

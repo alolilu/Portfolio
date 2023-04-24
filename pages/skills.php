@@ -9,7 +9,7 @@
     </div>
     <div class="row iconSkill">
         <div class="col"><i class="fa-brands fa-html5">
-                <h6>95%</h6>
+                <h6>100%</h6>
             </i>
             <p>HTML</p>
         </div>
@@ -19,24 +19,24 @@
             <p>CSS</p>
         </div>
         <div class="col"><i class="fa-brands fa-js">
-                <h6>50%</h6>
+                <h6>75%</h6>
             </i>
             <p>JavaScript</p>
         </div>
         <div class="col"><i class="fa-brands fa-php">
-                <h6>55%</h6>
+                <h6>75%</h6>
             </i>
             <p>PHP</p>
         </div>
         <div class="col"><i class="fa-brands fa-bootstrap">
-                <h6>90%</h6>
+                <h6>100%</h6>
             </i>
             <p>Bootstrap</p>
         </div>
     </div>
     <div class="row iconSkill">
         <div class="col"><i class="fa-solid fa-database">
-                <h6>50%</h6>
+                <h6>70%</h6>
             </i>
             <p>MySql</p>
         </div>
@@ -46,7 +46,7 @@
             <p>Scss</p>
         </div>
         <div class="col"><i class="fa-brands fa-windows">
-                <h6>99%</h6>
+                <h6>100%</h6>
             </i>
             <p>Windows</p>
         </div>
@@ -67,35 +67,35 @@
             </i>
             <p>Paint.net</p>
         </div>
-        <div class="col"><i class="fa-solid fa-o"></i>
-                <h6>95%</h6>
+        <div class="col"><i class="fa-solid fa-o">
+                <h6>100%</h6>
             </i>
             <p>Odoo</p>
         </div>
         <div class="col"><i class="fa-solid fa-terminal">
-                <h6>80%</h6>
+                <h6>100%</h6>
             </i>
             <p>Terminal</p>
         </div>
         <div class="col"><i class="fa-solid fa-mobile-screen">
-                <h6>85%</h6>
+                <h6>100%</h6>
             </i>
             <p>Responsive</p>
         </div>
         <div class="col"><i class="fa-brands fa-apple">
-                <h6>80%</h6>
+                <h6>100%</h6>
             </i>
             <p>MacOS</p>
         </div>
     </div>
     <div class="row iconSkill">
         <div class="col"><i class="fa-solid fa-code">
-                <h6>85%</h6>
+                <h6>100%</h6>
             </i>
             <p>Visual Studio Code</p>
         </div>
         <div class="col"><i class="fa-brands fa-github">
-                <h6>75%</h6>
+                <h6>85%</h6>
             </i>
             <p>Github</p>
         </div>
@@ -105,12 +105,12 @@
             <p>Proxmox</p>
         </div>
         <div class="col"><i class="fa-brands fa-java">
-                <h6>25%</h6>
+                <h6>30%</h6>
             </i>
             <p>Java</p>
         </div>
         <div class="col"><i class="fa-solid fa-laptop-code">
-                <h6>75%</h6>
+                <h6>100%</h6>
             </i>
             <p>Xml</p>
         </div>
