@@ -21,8 +21,8 @@ Define("element9", "Toutes mes compétences que j'utilise pour faire de vos rêv
 Define("element10", "Compétences & expériences");
 
 Define("element11", "Depuis que je travaille dans le développement web, j'ai développé une dizaine de sites internet, principalement en Front-End avec HTML, CSS, JavaScript <br>
-Puis quelques sites personnels en Back-End avec Php, Python <br>
-Actuellement, j'essaie d'améliorer mes langages de back-end. <br>
+Puis quelques sites en Back-End avec Php, Python <br>
+Actuellement, j'essaie d'améliorer mes langages en back-end. <br>
 Et je parle presque couramment l'anglais");
 
 Define("element12", "Anglais");
@@ -53,7 +53,7 @@ Define("element23", "Site Web.  E-commerce. <br> Site Vitrine.  Design.");
 
 Define("element24", "Expérience professionnelle");
 
-Define("element25", "Septembre 2021 - août 2022");
+Define("element25", "Septembre 2021 - Août 2023");
 
 Define("element26", "Février 2020 - Septembre 2021");
 
@@ -223,14 +223,13 @@ Define("element101", "(site réalié en entreprise)");
 
 Define("element102", "Ma passion pour le développement web commence en 2019 après un site web réalisé au lycée. <br>
 Dès lors, je mis tout en œuvre pour percer dans cette voie, tout en prenant plaisir sur les différents projets développés. <br>
-Après ce moment, je décide de me lancer dans un BTS SIO SLAM avec objectif de devenir développeur « full stack ». <br>
-J'essaie actuellement d'améliorer mes compétences dans la partie 'back-end' avec PHP pour le moment.  <br>
-J'ai pour objectif d'apprendre les frameworks Symfony(PHP) et Angular(JavaScript) avant septembre 2022. <br>
-Aujourd’hui, je recherche une entreprise pour pouvoir effectuer ma formation à l’école Efrei à ville juif pour septembre 2022 et poursuivre mes objectifs !");
+Après ce moment, je décide de me lancer dans un BTS SIO SLAM et ensuite de faire un bachelor Dev et Data avec objectif de devenir développeur « full stack ». <br>
+J'essaie actuellement d'améliorer mes compétences dans la partie 'back-end' avec PHP pour le moment, puis aussi du java et javascript (react). <br>
+J'ai pour objectif d'apprendre les frameworks Symfony(PHP) et Angular(JavaScript) avant septembre 2023. <br>
+Aujourd’hui, je suis à l'Efrei (mon école) avec pour objectif de finir mon master dans le développement web et enfin devenir freelance ou autres !");
 
 Define("element103", "Bonjour, Alexis développeur web et passionné ! <br>
-Je travaille dans le développement web, je réalise des sites internet, site vitrine, site e-commerce, application web et peut être d’autre type de site à l’avenir. <br>
-Actuellement, je suis à la recherche d’une entreprise pour septembre 2022 afin d’effectuer ma formation au sein de l’Efrei à Ville Juif. <br>");
+Je travaille dans le développement web, je réalise des sites internet, site vitrine, site e-commerce, application web et peut être d’autre type de site à l’avenir. <br>");
 
 Define("element104", "Mon portfolio est mon dernier projet, il a été réalisé à 100% par moi-même dans mon temps libre et bien sûr avec mes connaissances que j’ai dans le développent web. <br>
 Les langages utilisé dans ce projet sont pour le « front-end » HTML, CSS, JavaScript et pour la partie « back-end » du PHP en pure. <br>
@@ -238,3 +237,6 @@ Ce site a été réalisé principalement pour m’aider dans ma recherche d’en
 Pour en savoir plus sur mes projets, <br>
 Cliquer sur le bouton en dessous");
 
+Define("element105", "Septembre 2023 - Septembre 2025");
+
+Define("element106", "Master MBA Développeur full stack");

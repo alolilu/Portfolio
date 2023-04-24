@@ -21,7 +21,7 @@ Define("element9", "All my skills that i use to bring your dream to reality");
 Define("element10", "Skills & Experiences");
 
 Define("element11", " Since I work in web development, I have developed about ten websites, mostly on Front-End with HTML, CSS, JavaScript <br>
-Then some personal websites in Back-End with Php, Python <br>
+Then some websites in Back-End with Php, Python <br>
 Currently I try to improve my Back-End languages <br>
 And i almost speak english fluently");
 
@@ -221,18 +221,21 @@ Define("element101", "(site realized in company)");
 
 define("element102", "My passion for web development started in 2019 after a website made in high school. <br>
 From then on, I did everything I could to break into this field, while enjoying the different projects I developed. <br>
-After this moment, I decided to do a BTS SIO SLAM with the objective to become a full stack developer. <br>
-I'm currently trying to improve my skills in the 'back-end' part with PHP for the moment.  <br>
-My goal is to learn Symfony(PHP) and Angular(JavaScript) frameworks before September 2022. <br>
-Today, I am looking for a company to complete my training at Efrei in Ville Juif for September 2022 and pursue my goals!");
+After this moment, I decided to do a BTS SIO SLAM and then to make a bachelor Dev and Data with the objective to become a full stack developer. <br>
+I'm currently trying to improve my skills in the 'back-end' part with PHP for the moment, then also java et javascript (react). <br>
+My goal is to learn Symfony(PHP) and Angular(JavaScript) frameworks before september 2023. <br>
+Today, I am at Efrei (my school) with the goal to finish my master in web development and finally become a freelancer or something else !");
 
 define("element103", "Hello, Alexis web developer and passionate! <br>
-I work in web development, I create websites, showcase site, e-commerce site, web application and may be other type of site in the future. <br>
-I'm currently looking for a company for September 2022 to complete my training at Efrei in Ville Juif. ");
+I work in web development, I create websites, showcase site, e-commerce site, web application and may be other type of site in the future. <br>");
 
 define("element104", "My portfolio is my last project, it was made 100% by myself in my free time and of course with my knowledge in web development. <br>
 The languages used in this project are for the front-end HTML, CSS, JavaScript and for the back-end pure PHP. <br>
 This site was created mainly to help me in my search for a company to have a chance to pursue my main objectives and to have a detailed presentation of my main projects. <br>
 To know more about my projects, <br>
 Click on the button below ");
+
+Define("element105", "September 2023 - September 2025");
+
+Define("element106", "Master MBA Developer full stack");
 
