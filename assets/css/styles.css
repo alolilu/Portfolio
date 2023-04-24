@@ -1265,7 +1265,6 @@ body{
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    filter: blur(3px);
 }
 
 .arrow{
@@ -1277,7 +1276,7 @@ body{
 .arrow i{
     font-size: 4vh;
     color: var(--change-color);
-    transform: rotate(315deg);
+    transform: rotate(305deg);
     margin-right: 70px;
 }
 
@@ -1499,7 +1498,7 @@ body{
 
 .barreRempli2{
     position: absolute;
-    width: 50%;
+    width: 60%;
     background-color: var(--change-color);
     height: 4px;
     z-index: 99;
@@ -1510,7 +1509,7 @@ body{
         width: 10px;
     }
     to {
-        width: 50%;
+        width: 60%;
     }
 }
 
@@ -1531,7 +1530,7 @@ body{
 }
 
 .barreRempli4{
-    width: 75%;
+    width: 85%;
     position: absolute;
     background-color: var(--change-color);
     height: 4px;
@@ -1542,7 +1541,7 @@ body{
         width: 10px;
     }
     to {
-        width: 75%;
+        width: 85%;
     }
 }
 
