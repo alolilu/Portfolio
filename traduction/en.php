@@ -278,7 +278,7 @@ Define("element124", "Here you will find all these services, with pictures and e
 
 Define("element125", "Display and redirect its main skills, notices, and contact information.");
 
-Define("element126", "");
+Define("element126", "MY RESUME");
 
 Define("element127", "");
 

@@ -280,7 +280,7 @@ Define("element124", "Ici vous y retrouverez toutes ces prestations, avec des im
 
 Define("element125", "Affichage des préstations et redirection, affcihage des avis google, puis les informations de contact.");
 
-Define("element126", "");
+Define("element126", "MON CV");
 
 Define("element127", "");
 
