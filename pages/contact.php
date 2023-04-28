@@ -84,6 +84,10 @@
                 <a href="mailto:developpeuralexispro@gmail.com">developpeuralexispro@gmail.com</a>
                 <h6>Location: France, Melun</h6>
             </div>
+            <div class="row">
+            <p><?= element126 ?></p>
+            <a href="assets/PDF/CValexisFredriksen.pdf">Curriculum vitae</a>
+        </div>
         </div>
         <div class="col-md-1"></div>
     </div>
@@ -97,6 +101,10 @@
             <p><?= element43 ?></p>
             <a href="mailto:developpeuralexispro@gmail.com">developpeuralexispro@gmail.com</a>
             <h6>Location: France, Melun</h6>
+        </div>
+        <div class="row">
+            <p><?= element126 ?></p>
+            <a href="../assets/PDF/CValexisFredriksen.pdf">Curriculum vitae</a>
         </div>
     </div>
     <div class="container-fluid Next">
