@@ -1,8 +1,8 @@
 <?php
 
-$lang = "en";
+$lang = "fr";
 
-if(isset($_COOKIE['language']) && $_COOKIE['language'] == "fr"){
+if(isset($_COOKIE['language']) && $_COOKIE['language'] == "en"){
     include("traduction/fr.php");
     $lang = "fr";
 } else {
