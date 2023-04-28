@@ -231,12 +231,59 @@ Aujourd’hui, je suis à l'Efrei (mon école) avec pour objectif de finir mon m
 Define("element103", "Bonjour, Alexis développeur web et passionné ! <br>
 Je travaille dans le développement web, je réalise des sites internet, site vitrine, site e-commerce, application web et peut être d’autre type de site à l’avenir. <br>");
 
-Define("element104", "Mon portfolio est mon dernier projet, il a été réalisé à 100% par moi-même dans mon temps libre et bien sûr avec mes connaissances que j’ai dans le développent web. <br>
-Les langages utilisé dans ce projet sont pour le « front-end » HTML, CSS, JavaScript et pour la partie « back-end » du PHP en pure. <br>
-Ce site a été réalisé principalement pour m’aider dans ma recherche d’entreprise pour avoir une chance de poursuivre mes objectifs principaux et pour pouvoir avoir un support de présentation détaillé de mes principaux projets. <br>
+Define("element104", "INREC est mon dernier projet, il a été réalisé à 100% par moi-même dans mon temps libre, et bien sûr avec mes connaissances que j’ai dans le développent web.  <br>
+C'est une application web d'offre d'emploie à la façon tinder, vous pouvez liker une offre d'emploie, si l'entreprise vous like en retour, vous pouvez entamer une discussion et peut-être organiser un entretien ! <br>
+Les langages utilisé dans ce projet sont pour le « front-end » HTML, CSS, JavaScript et pour la partie « back-end » du PHP en pure et avec du SQL pour les requètes vers la base de données. <br>
+Ce site a été réalisé principalement pour mon projet de soutenance en Bachelor Dev & Data et aussi pour m’aider dans ma recherche d’entreprise pour avoir une chance de poursuivre mes objectifs principaux et pour pouvoir avoir un support de présentation détaillé de mes principaux projets. <br>
 Pour en savoir plus sur mes projets, <br>
 Cliquer sur le bouton en dessous");
 
 Define("element105", "Septembre 2023 - Septembre 2025");
 
 Define("element106", "Master MBA Développeur full stack");
+
+Define("element107", "Compléter son profil, modifier son profil");
+
+Define("element108", "Voir les matches et ces informations, messages");
+
+Define("element109", "Créer une offre d'emploie");
+
+Define("element110", "Affichage des offres d'emploies et des candidats");
+
+Define("element114", "Voir les matches et ces informations");
+
+Define("element115", "Pouvoir envoyez des messages à la personne matcher");
+
+Define("element111", "Voir les offres d'emploies liker");
+
+Define("element112", "Page experience professionnelle, formations");
+
+Define("element113", "Voir les offres publier et les supprimer");
+
+Define("element116", "Une fois connecter vous devez compléter votre profil pour accéder à la page pour swiper les offres d'emploies ou les candidats, puis à tout moment vous pouvez modifier votre profil");
+
+Define("element117", "En tant qu'entreprise vous pouvez créer autant d'offre d'emploie que vous souhaiter puis aussi les supprimer");
+
+Define("element118", "Affichage des candidats et des offres d'emploies, possibilité de liker ou non une personne, puis vous pouvez voir les offres d'emploies que vous avez liker, bien sûr si les deux personnes ce sont liker on obtient un match !");
+
+Define("element119", "Sur cette page vous pouvez afficher les informations du match, informations sur l'entreprise et l'offre d'emploie liker, puis vous pouvez aussi lui envoyer des messages pour peut-être organiser un entretien !");
+
+Define("element120", "Page principal du portfolio");
+
+Define("element121", "Page préstations : manucure, massage, soins, maquillage");
+
+Define("element122", "Ce portfolio dispose de quelques animations tel que le grossissement du logo à l'entrer du site, et des images qui flotes au fur et à mesure que vous scrollez.");
+
+Define("element123", "Cette page est un 'à propos' avec une biographie et ses  expériences professionnelles et ses formations.");
+
+Define("element124", "Ici vous y retrouverez toutes ces prestations, avec des images et des explications pour mieux comprendre comment elles marchent.");
+
+Define("element125", "Affichage des préstations et redirection, affcihage des avis google, puis les informations de contact.");
+
+Define("element126", "");
+
+Define("element127", "");
+
+Define("element128", "");
+
+Define("element129", "");

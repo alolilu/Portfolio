@@ -11,6 +11,8 @@ $routes = array(
     "EneaCorporation" => "EneaCorporation",
     "SonarCorporation" => "SonarCorporation",
     "CigaretteElectronique" => "CigaretteElectronique",
+    "KatiaPortfolio" => "KatiaPortfolio",
+    "INREC" => "INREC",
 );
 
 $description_default = "";
@@ -26,6 +28,8 @@ $metas = array(
     "SonarCorporation" => array("", "", ""),
     "CigaretteElectronique" => array("", "", ""),
     "FortunaBanque" => array("", "", ""),
+    "KatiaPortfolio" => array("", "", ""),
+    "INREC" => array("", "", ""),
 );
 
 ?>

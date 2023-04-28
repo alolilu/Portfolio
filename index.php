@@ -8,6 +8,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="../assets/images/icon.png">
     <link rel="stylesheet" href="assets/css/styles.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <title>Portoflio Alexis FREDRIKSEN</title>
@@ -38,14 +39,14 @@
     </p>
     <a onclick="toggle()" id="settingsButton"><i class="fa-solid fa-gear"></i></a>
     <div class="colorTheme">
-    <a onclick="changeColorTheme('rgb(192,160,98')"  ><img src="../portfolio2022/assets/images/couleur/color1.png" alt=""></a>
-    <a onclick="changeColorTheme('blue')" id="btnColor1"><img src="../portfolio2022/assets/images/couleur/color2.png" alt=""></a>
-    <a onclick="changeColorTheme('red')" id="btnColor3"><img src="../portfolio2022/assets/images/couleur/color3.png" alt=""></a>
-    <a onclick="changeColorTheme('orange')" id="btnColor4"><img src="../portfolio2022/assets/images/couleur/color4.png" alt=""></a>
-    <a onclick="changeColorTheme('yellow')" id="btnColor5"><img src="../portfolio2022/assets/images/couleur/color6.png" alt=""></a>
-    <a onclick="changeColorTheme('green')" id="btnColor6"><img src="../portfolio2022/assets/images/couleur/color5.png" alt=""></a>
-    <a onclick="changeColorTheme('pink')" id="btnColor7"><img src="../portfolio2022/assets/images/couleur/color7.png" alt=""></a>
-    <a onclick="changeColorTheme('rgb(47,145,234)')" id="btnColor8"><img src="../portfolio2022/assets/images/couleur/color8.png" alt=""></a>
+    <a onclick="changeColorTheme('rgb(192,160,98')"  ><img src="../assets/images/couleur/color1.png" alt=""></a>
+    <a onclick="changeColorTheme('blue')" id="btnColor1"><img src="../assets/images/couleur/color2.png" alt=""></a>
+    <a onclick="changeColorTheme('red')" id="btnColor3"><img src="../assets/images/couleur/color3.png" alt=""></a>
+    <a onclick="changeColorTheme('orange')" id="btnColor4"><img src="../assets/images/couleur/color4.png" alt=""></a>
+    <a onclick="changeColorTheme('yellow')" id="btnColor5"><img src="../assets/images/couleur/color6.png" alt=""></a>
+    <a onclick="changeColorTheme('green')" id="btnColor6"><img src="../assets/images/couleur/color5.png" alt=""></a>
+    <a onclick="changeColorTheme('pink')" id="btnColor7"><img src="../assets/images/couleur/color7.png" alt=""></a>
+    <a onclick="changeColorTheme('rgb(47,145,234)')" id="btnColor8"><img src="../assets/images/couleur/color8.png" alt=""></a>
     </div>
     <p>
         <?= element53 ?>
@@ -211,6 +212,10 @@ function toggle(){
     <div id="imageAnim4"></div>
     <img id="ImageProjet5" alt="">
     <div id="imageAnim5"></div>
+    <img id="ImageProjet6" alt="">
+    <div id="imageAnim6"></div>
+    <img id="ImageProjet7" alt="">
+    <div id="imageAnim7"></div>
 </div>
 
 

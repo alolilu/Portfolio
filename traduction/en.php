@@ -229,9 +229,10 @@ Today, I am at Efrei (my school) with the goal to finish my master in web develo
 define("element103", "Hello, Alexis web developer and passionate! <br>
 I work in web development, I create websites, showcase site, e-commerce site, web application and may be other type of site in the future. <br>");
 
-define("element104", "My portfolio is my last project, it was made 100% by myself in my free time and of course with my knowledge in web development. <br>
-The languages used in this project are for the front-end HTML, CSS, JavaScript and for the back-end pure PHP. <br>
-This site was created mainly to help me in my search for a company to have a chance to pursue my main objectives and to have a detailed presentation of my main projects. <br>
+define("element104", "INREC is my last project, it was made 100% by myself in my free time and of course with my knowledge in web development. <br>
+The languages used in this project are for the front-end HTML, CSS, JavaScript and for the back-end pure PHP and with SQL for database queries. <br>
+It's a tinder like job offer web application, you can like a job offer, if the company likes you back, you can start a discussion and maybe arrange an interview ! <br>
+This site was created mainly for my Bachelor Dev & Data thesis project and also to help me in my search for a company to have a chance to pursue my main objectives and to have a detailed presentation of my main projects. <br>
 To know more about my projects, <br>
 Click on the button below ");
 
@@ -239,3 +240,48 @@ Define("element105", "September 2023 - September 2025");
 
 Define("element106", "Master MBA Developer full stack");
 
+Define("element107", "Complete your profile, modify your profile");
+
+Define("element108", "See the matches and this information, message");
+
+Define("element109", "Create a job offer");
+
+Define("element110", "Posting of job offers and candidates");
+
+Define("element111", "See the job offers liker");
+
+Define("element112", "Page professional experience, training");
+
+Define("element113", "See the offers published and delete them");
+
+Define("element114", "See the matches and this information");
+
+Define("element115", "Be able to send messages to the matcher");
+
+Define("element116", "Once logged in you must complete your profile to access the page to browse jobs or candidates, then at any time you can edit your profile");
+
+Define("element117", "As a company you can create as many job offers as you want and then delete them");
+
+Define("element118", "Display of candidates and job offers, possibility of liking or not a person, then you can see the job offers that you have liked, of course if the two people are liking each other we have a match!");
+
+Define("element119", "On this page you can view the match information, company information and job offer liker, then you can also send him/her messages to maybe arrange an interview !");
+
+Define("element120", "Main page of this portfolio");
+
+Define("element121", "Manicure, massage, care, make-up page");
+
+Define("element122", "This portfolio has some animations such as the magnification of the logo at the entrance of the site, and images that float as you scroll.");
+
+Define("element123", "This page is an 'about' page with a biography and his professional experience and training.");
+
+Define("element124", "Here you will find all these services, with pictures and explanations to better understand how they work.");
+
+Define("element125", "Display and redirect its main skills, notices, and contact information.");
+
+Define("element126", "");
+
+Define("element127", "");
+
+Define("element128", "");
+
+Define("element129", "");
