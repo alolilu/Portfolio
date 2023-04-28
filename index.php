@@ -155,12 +155,12 @@ function toggle(){
 <!-- switch language -->
 
 <script>
-    function switchLang1(lang){
+    function switchLang(lang){
         document.cookie = "language=" + lang;
         location.reload();
     }
 
-    function switchLang(lang){
+    function switchLang1(lang){
         document.cookie = "language=" + lang;
         location.reload();
     }
