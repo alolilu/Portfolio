@@ -4,22 +4,22 @@
     </h1>
     <div class="row">
         <div class="col-md-9">
-            <a id="TitreHover4" href="<?= $routes['FortunaBanque'] ?>">Fortuna Banque</a>
+            <a id="TitreHover7" href="<?= $routes['INREC'] ?>"> INREC JOB </a>
         </div>
         <div class="col-md-3">
-            <p>Fortuna Banque</p>
-            <p>HTML, CSS, JavaScript, PHP</p>
-            <p>2021. 10</p>
+            <p>INREC JOB</p>
+            <p>HTML, CSS, JavaScript, PHP, SQL</p>
+            <p>2023. 04</p>
         </div>
     </div>
     <div class="row">
         <div class="col-md-9">
-            <a id="TitreHover5" href="<?= $routes['CigaretteElectronique'] ?>">Cigarette Electro</a>
+            <a id="TitreHover6" href="<?= $routes['KatiaPortfolio'] ?>"> Katia Portfolio </a>
         </div>
         <div class="col-md-3">
-            <p>Cigarette Electronique</p>
+            <p>Katia Portfolio</p>
             <p>HTML, CSS, JavaScript, PHP</p>
-            <p>2022. 01</p>
+            <p>2022. 10</p>
         </div>
     </div>
     <div class="row">
@@ -32,6 +32,27 @@
             <p>2022. 03</p>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-9">
+            <a id="TitreHover5" href="<?= $routes['CigaretteElectronique'] ?>">Cigarette Electro</a>
+        </div>
+        <div class="col-md-3">
+            <p>Cigarette Electronique</p>
+            <p>HTML, CSS, JavaScript, PHP, SQL</p>
+            <p>2022. 01</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-9">
+            <a id="TitreHover4" href="<?= $routes['FortunaBanque'] ?>">Fortuna Banque</a>
+        </div>
+        <div class="col-md-3">
+            <p>Fortuna Banque</p>
+            <p>HTML, CSS, JavaScript, PHP, SQL</p>
+            <p>2021. 10</p>
+        </div>
+    </div>
+    
     <div class="row">
         <div class="col-md-9">
            <a id="TitreHover2" href="<?= $routes['SonarCorporation'] ?>">Sonar Corporation</a>

@@ -1,9 +1,6 @@
 <div class="footer">
     <div class="logo"></div>
     <p>© 2023</p>
-    <p><?= element17 ?><span id="spanColor">Visual Studio Code</span></p>
-    <p><?= element17 ?><span id="spanColor"><?= element21 ?></span></p>
-    <p><?= element19 ?> <span id="spanColor">Infinity Free</span></p>
 
     <div class="barre"></div>
 

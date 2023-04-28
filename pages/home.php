@@ -38,7 +38,7 @@
         </h2>
     </div>
     <div class="container LastProject">
-        <img src="assets/images/projet.png" alt="">
+        <img src="assets/images/INREC.png" alt="">
     </div>
     <div class="container LastProjectText">
         <p><?= element104 ?></p>

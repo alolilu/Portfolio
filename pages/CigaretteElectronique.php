@@ -149,8 +149,8 @@
         <?= element65 ?><br> <i class="fa-solid fa-arrow-down"></i>
     </h5>
     <div class="wrapper1">
-        <a class="cta" href="<?= $routes['MyPortfolio'] ?>">
-            <span><?= element16 ?></span>
+        <a class="cta" href="<?= $routes['FortunaBanque'] ?>">
+            <span>Fortuna Banque</span>
             <span id="spanMore">
                 <svg width="50px" height="40px" viewBox="0 0 66 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <g id="arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
