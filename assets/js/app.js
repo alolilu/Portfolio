@@ -136,6 +136,38 @@ TitreProjet5.addEventListener("mouseout", () =>{
 })
 
 
+// Image 6
+
+const TitreProjet6 = document.getElementById('TitreHover6');
+
+TitreProjet6.addEventListener("mouseover", () =>{
+    document.getElementById('ImageProjet6').style.display = "block";
+    document.getElementById('imageAnim6').style.opacity = 1;
+    document.getElementById('imageAnim6').style.animation = 'ani 1s steps(22) forwards';
+})
+
+TitreProjet6.addEventListener("mouseout", () =>{
+    document.getElementById('ImageProjet6').style.display = "none";
+    document.getElementById('imageAnim6').style.opacity = 0;
+    document.getElementById('imageAnim6').style.animation = "none";
+})
+
+// Image 7
+
+const TitreProjet7 = document.getElementById('TitreHover7');
+
+TitreProjet7.addEventListener("mouseover", () =>{
+    document.getElementById('ImageProjet7').style.display = "block";
+    document.getElementById('imageAnim7').style.opacity = 1;
+    document.getElementById('imageAnim7').style.animation = 'ani 1s steps(22) forwards';
+})
+
+TitreProjet7.addEventListener("mouseout", () =>{
+    document.getElementById('ImageProjet7').style.display = "none";
+    document.getElementById('imageAnim7').style.opacity = 0;
+    document.getElementById('imageAnim7').style.animation = "none";
+})
+
 
 
 

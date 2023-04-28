@@ -1775,7 +1775,73 @@ body{
     background-size: cover;
 }
 
+#ImageProjet6{
+    height: 400px;
+    width: 730px !important;
+    position: absolute;
+    top: -214px;
+    right: -700px;
+    display: none;
+    animation-delay: 2s;
+    transition: 1s;
+    overflow: hidden;
+    background-image: url("../images/KatiaProject.png");
+    background-position: center;
+    background-size: cover;
+}
+
+#ImageProjet7{
+    height: 400px;
+    width: 730px !important;
+    position: absolute;
+    top: -214px;
+    right: -700px;
+    display: none;
+    animation-delay: 2s;
+    transition: 1s;
+    overflow: hidden;
+    background-image: url("../images/INREC.png");
+    background-position: center;
+    background-size: cover;
+}
+
 #imageAnim5 {
+    position: absolute;
+    z-index: 9999;
+    width: 730px !important;
+    height: 400px;
+    overflow: hidden;
+    outline: none;
+    top: -214px;
+    right: -700px;
+    opacity: 0;
+    animation-delay: 0.1s !important;
+    background-color: var(--second-bg-color);
+    -webkit-mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
+    mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
+    -webkit-mask-size: 2300% 100%;
+    mask-size: 2300% 100%;
+}
+
+#imageAnim6 {
+    position: absolute;
+    z-index: 9999;
+    width: 730px !important;
+    height: 400px;
+    overflow: hidden;
+    outline: none;
+    top: -214px;
+    right: -700px;
+    opacity: 0;
+    animation-delay: 0.1s !important;
+    background-color: var(--second-bg-color);
+    -webkit-mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
+    mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/nature-sprite.png");
+    -webkit-mask-size: 2300% 100%;
+    mask-size: 2300% 100%;
+}
+
+#imageAnim7 {
     position: absolute;
     z-index: 9999;
     width: 730px !important;
@@ -1845,6 +1911,26 @@ body{
 }
 
 #ImageProjet5{
+    height: 400px;
+    width: 650px;
+    position: absolute;
+    top: -214px;
+    right: -700px;
+    display: none;
+    transition: 1s;
+}
+
+#ImageProjet6{
+    height: 400px;
+    width: 650px;
+    position: absolute;
+    top: -214px;
+    right: -700px;
+    display: none;
+    transition: 1s;
+}
+
+#ImageProjet7{
     height: 400px;
     width: 650px;
     position: absolute;
